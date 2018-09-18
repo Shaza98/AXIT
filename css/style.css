@@ -56,6 +56,9 @@
   width: 100%;
   color: white;
 }
+#home .btn:hover{
+  color: #d95b29;
+}
 #home .form-control{
   border:none;
   border-bottom: 1px solid #ced4da;
