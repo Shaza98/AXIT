@@ -57,7 +57,7 @@
   color: white;
 }
 #home .btn:hover{
-  color: #d95b29;
+  background-color: #cc8221;
 }
 #home .form-control{
   border:none;
