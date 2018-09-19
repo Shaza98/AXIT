@@ -44,7 +44,7 @@
   width: 100%;
   color: white;
 }
-#home .btn:hover{
+#home .btn-style:hover{
   background-color: #cc8221;
 }
 #home .form-control{
