@@ -145,7 +145,7 @@
 #social-media p{
   color: rgb(153, 153, 153);
 }
-#social-media a,footer a{
+#social-media a{
   color: rgb(180, 180, 180);
   margin-right: 4%;
 }
@@ -327,8 +327,13 @@
 #contact-us .btn:hover{
   background-color: #cc8221;
 }
-footer .container{
-  text-align: center;
+footer{
+  padding: 1rem;
+}
+footer a{
+  color: rgb(180, 180, 180);
+  margin-right: 2%;
+  margin-left: 2%;
 }
 footer .fab,footer .fas{
   padding:0 1rem;
